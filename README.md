@@ -20,13 +20,13 @@ The Inter-American Development Bank (IDB)believes that new methods beyond tradit
 household characteristics, might help improve PMT’s performance.
 Following actions should be performed:
 
-Identify the output variable.
-Understand the type of data.
-Check if there are any biases in your dataset.
-Check whether all members of the house have the same poverty level.
-Check if there is a house without a family head.
-Set poverty level of the members and the head of the house within a family.
-Count how many null values are existing in columns.
-Remove null value rows of the target variable.
-Predict the accuracy using random forest classifier.
-Check the accuracy using random forest with cross validation.
+1. Identify the output variable.
+2. Understand the type of data.
+3. Check if there are any biases in your dataset.
+4. Check whether all members of the house have the same poverty level.
+5. Check if there is a house without a family head.
+6. Set poverty level of the members and the head of the house within a family.
+7. Count how many null values are existing in columns.
+8. Remove null value rows of the target variable.
+9. Predict the accuracy using random forest classifier.
+10. Check the accuracy using random forest with cross validation.
